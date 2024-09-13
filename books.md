@@ -8,7 +8,7 @@
   price : 81.000<br>
   tahun terbit : 2022<br>
   isbn : 1928301<br>
-  penerbit : KPG<br>
+  penerbit : Kepustakaan Popular Gramedia<br>
 * Wonder by R.J Palacio<br>
   price : 121.000<br>
   tahun terbit : 2023<br>
